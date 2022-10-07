@@ -1,0 +1,15 @@
+/Users/kmartinez/Documents/anotherTest/bin/Debug/net6.0/anotherTest
+/Users/kmartinez/Documents/anotherTest/bin/Debug/net6.0/anotherTest.deps.json
+/Users/kmartinez/Documents/anotherTest/bin/Debug/net6.0/anotherTest.runtimeconfig.json
+/Users/kmartinez/Documents/anotherTest/bin/Debug/net6.0/anotherTest.dll
+/Users/kmartinez/Documents/anotherTest/bin/Debug/net6.0/anotherTest.pdb
+/Users/kmartinez/Documents/anotherTest/obj/Debug/net6.0/anotherTest.csproj.AssemblyReference.cache
+/Users/kmartinez/Documents/anotherTest/obj/Debug/net6.0/anotherTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kmartinez/Documents/anotherTest/obj/Debug/net6.0/anotherTest.AssemblyInfoInputs.cache
+/Users/kmartinez/Documents/anotherTest/obj/Debug/net6.0/anotherTest.AssemblyInfo.cs
+/Users/kmartinez/Documents/anotherTest/obj/Debug/net6.0/anotherTest.csproj.CoreCompileInputs.cache
+/Users/kmartinez/Documents/anotherTest/obj/Debug/net6.0/anotherTest.dll
+/Users/kmartinez/Documents/anotherTest/obj/Debug/net6.0/refint/anotherTest.dll
+/Users/kmartinez/Documents/anotherTest/obj/Debug/net6.0/anotherTest.pdb
+/Users/kmartinez/Documents/anotherTest/obj/Debug/net6.0/anotherTest.genruntimeconfig.cache
+/Users/kmartinez/Documents/anotherTest/obj/Debug/net6.0/ref/anotherTest.dll
